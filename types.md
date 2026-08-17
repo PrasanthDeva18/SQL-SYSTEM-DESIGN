@@ -26,4 +26,6 @@
   - INTERVAL
  - UUID
    - UUID
- - 
+ - Json/Jsonb
+ - Array
+ - ENUM
