@@ -1,0 +1,20 @@
+-- Table Creation 
+
+  CREARE TABLE TABLENAME (
+    id
+  )
+-- KEY
+  -- - PRIMARY KEY
+  -- - FOREIGN KEY
+  -- - SUPER KEY
+  -- - COMPOSITE KEY
+  -- - SUPER KEY
+  -- - 
+
+### Insert Query 
+
+```SQL
+
+INSERT INTO TABLENAME VALUES ();
+INSERT INTO TABLENAME (COLUMN_NAME1, COLUMN_NAME2) VALUES ());
+INSERT INTO TABLENAME (
